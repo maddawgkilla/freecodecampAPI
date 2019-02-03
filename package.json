@@ -4,7 +4,12 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "express": "*"
+    "body-parser": "^1.18.3",
+    "express": "*",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.9",
+    "mongoose-auto-increment": "^5.0.1",
+    "valid-url": "^1.0.9"
   },
   "devDependencies": {},
   "scripts": {
