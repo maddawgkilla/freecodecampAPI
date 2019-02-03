@@ -1,0 +1,23 @@
+{
+  "name": "freecodecampapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddawgkilla/freecodecampAPI.git"
+  },
+  "author": "Sami Tariq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddawgkilla/freecodecampAPI/issues"
+  },
+  "homepage": "https://github.com/maddawgkilla/freecodecampAPI#readme"
+}
